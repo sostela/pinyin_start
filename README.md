@@ -2,3 +2,7 @@
 
 Õ¾µã1£ºhttps://sostela.github.io/pinyin_start/
 
+### Add chapter: you can open [ÔÚÏßºº×Ö×ªÆ´Òô£¨Ç§Ç§Ðã×Ö£©](https://www.qqxiuzi.cn/zh/pinyin/) to get you want.
+### Import chapters: you can get chapters *.json [here](https://github.com/sostela/pinyin_start/tree/main/chapters)
+
+
